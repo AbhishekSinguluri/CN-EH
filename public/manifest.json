@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Cross-Platform Tracking Transparency System (CTTS)",
+  "short_name": "CTTS",
+  "version": "1.0.0",
+  "description": "Observe cross-platform third-party tracking, inspect originating websites, and control tracker blocking locally.",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CTTS Privacy Shield",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "background": {
+    "service_worker": "service-worker.js",
+    "type": "module"
+  },
+  "options_page": "dashboard.html",
+  "permissions": [
+    "webRequest",
+    "declarativeNetRequest",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "minimum_chrome_version": "100"
+}

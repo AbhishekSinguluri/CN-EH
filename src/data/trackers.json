@@ -1,0 +1,453 @@
+[
+  {
+    "domain": "doubleclick.net",
+    "name": "Google DoubleClick",
+    "category": "advertising",
+    "company": "Google LLC",
+    "description": "Google's ad-serving and real-time bidding exchange tracking user browsing to serve targeted display ads.",
+    "confidence": "high",
+    "source": "EasyPrivacy / DDG Tracker Radar"
+  },
+  {
+    "domain": "googleadservices.com",
+    "name": "Google Ad Services",
+    "category": "advertising",
+    "company": "Google LLC",
+    "description": "Coordinates Google Ads conversion tracking and ad click verification across publisher websites.",
+    "confidence": "high",
+    "source": "EasyList / DDG Tracker Radar"
+  },
+  {
+    "domain": "googlesyndication.com",
+    "name": "Google AdSense Syndication",
+    "category": "advertising",
+    "company": "Google LLC",
+    "description": "Loads dynamic publisher advertising slots and synchronizes contextual targeting identifiers.",
+    "confidence": "high",
+    "source": "EasyList"
+  },
+  {
+    "domain": "google-analytics.com",
+    "name": "Google Analytics",
+    "category": "analytics",
+    "company": "Google LLC",
+    "description": "Records user pageviews, scroll activity, session duration, and device attributes across visits.",
+    "confidence": "high",
+    "source": "Disconnect / DDG Tracker Radar"
+  },
+  {
+    "domain": "connect.facebook.net",
+    "name": "Meta Social SDK / Pixel",
+    "category": "social",
+    "company": "Meta Platforms, Inc.",
+    "description": "Loads Meta Facebook pixel and social sharing buttons to attribute web conversions and profile user browsing habits.",
+    "company": "Meta Platforms, Inc.",
+    "confidence": "high",
+    "source": "Disconnect / EasyPrivacy"
+  },
+  {
+    "domain": "facebook.com",
+    "name": "Facebook Tracking Pixel",
+    "category": "social",
+    "company": "Meta Platforms, Inc.",
+    "description": "Direct endpoints for Meta Pixel conversion beacons (`/tr/`) and cross-site identity matching.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "criteo.com",
+    "name": "Criteo Retargeting",
+    "category": "advertising",
+    "company": "Criteo S.A.",
+    "description": "Specializes in cross-site dynamic retargeting, showing users ads for specific e-commerce products viewed elsewhere.",
+    "confidence": "high",
+    "source": "EasyPrivacy / DDG Tracker Radar"
+  },
+  {
+    "domain": "criteo.net",
+    "name": "Criteo CDN / Beacons",
+    "category": "advertising",
+    "company": "Criteo S.A.",
+    "description": "Content delivery domain serving Criteo tracking scripts and sync pixels.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "amazon-adsystem.com",
+    "name": "Amazon Advertising",
+    "category": "advertising",
+    "company": "Amazon.com, Inc.",
+    "description": "Serves sponsored product recommendations and tracks conversion events across participating merchant sites.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "adnxs.com",
+    "name": "Xandr / AppNexus",
+    "category": "advertising",
+    "company": "Microsoft (Xandr)",
+    "description": "Programmatic ad exchange facilitating real-time bidding auctions and cookie syncing across publishers.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "adsrvr.org",
+    "name": "The Trade Desk",
+    "category": "advertising",
+    "company": "The Trade Desk, Inc.",
+    "description": "Demand-side platform managing cross-device advertising campaigns and unified identity graphs (Unified ID 2.0).",
+    "confidence": "high",
+    "source": "DDG Tracker Radar / Disconnect"
+  },
+  {
+    "domain": "pubmatic.com",
+    "name": "PubMatic",
+    "category": "advertising",
+    "company": "PubMatic, Inc.",
+    "description": "Supply-side platform enabling programmatic advertising auctions and publisher audience monetization.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "rubiconproject.com",
+    "name": "Magnite / Rubicon Project",
+    "category": "advertising",
+    "company": "Magnite, Inc.",
+    "description": "Global independent advertising exchange facilitating cross-site cookie synchronization and header bidding.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "casalemedia.com",
+    "name": "Index Exchange",
+    "category": "advertising",
+    "company": "Index Exchange Inc.",
+    "description": "Ad tech platform providing header bidding wrappers and cross-site audience matching.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "openx.net",
+    "name": "OpenX",
+    "category": "advertising",
+    "company": "OpenX Software Ltd.",
+    "description": "Programmatic advertising exchange connecting media publishers with advertisers via real-time auctions.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "taboola.com",
+    "name": "Taboola Content Recommendation",
+    "category": "advertising",
+    "company": "Taboola, Inc.",
+    "description": "Provides sponsored native content recommendation grids and tracks user content interactions.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "outbrain.com",
+    "name": "Outbrain",
+    "category": "advertising",
+    "company": "Outbrain Inc.",
+    "description": "Native advertising and content syndication network collecting behavioral data across publishers.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "hotjar.com",
+    "name": "Hotjar Session Recording",
+    "category": "analytics",
+    "company": "Hotjar Ltd.",
+    "description": "Captures heatmaps, session recordings, cursor movements, and user feedback surveys on websites.",
+    "confidence": "high",
+    "source": "Disconnect / EasyPrivacy"
+  },
+  {
+    "domain": "clarity.ms",
+    "name": "Microsoft Clarity",
+    "category": "analytics",
+    "company": "Microsoft Corporation",
+    "description": "Behavioral analytics tool that tracks user scroll depth, click heatmaps, and session replays.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "bat.bing.com",
+    "name": "Microsoft Bing Ads Pixel",
+    "category": "pixels",
+    "company": "Microsoft Corporation",
+    "description": "Universal Event Tracking (UET) pixel measuring ad campaign conversions and search attribution.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "analytics.twitter.com",
+    "name": "X / Twitter Ads Pixel",
+    "category": "social",
+    "company": "X Corp.",
+    "description": "Tracks website visits and purchases to attribute conversions to advertisements served on X / Twitter.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "static.ads-twitter.com",
+    "name": "X / Twitter Ad Static Library",
+    "category": "social",
+    "company": "X Corp.",
+    "description": "Delivers conversion tracking scripts and telemetry assets for X marketing campaigns.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "t.co",
+    "name": "X / Twitter Link Redirect / Beacon",
+    "category": "social",
+    "company": "X Corp.",
+    "description": "Shortened link redirector and embedded tracking beacon recording outbound click attribution.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "snap.licdn.com",
+    "name": "LinkedIn Insight Tag",
+    "category": "social",
+    "company": "LinkedIn Corporation (Microsoft)",
+    "description": "B2B tracking tag recording visitor demographic details and attributing professional advertising campaigns.",
+    "confidence": "high",
+    "source": "Disconnect / EasyPrivacy"
+  },
+  {
+    "domain": "px.ads.linkedin.com",
+    "name": "LinkedIn Conversion Pixel",
+    "category": "pixels",
+    "company": "LinkedIn Corporation",
+    "description": "Direct conversion pixel reporting business interactions and audience matching to LinkedIn Ads.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "ct.pinterest.com",
+    "name": "Pinterest Tag",
+    "category": "social",
+    "company": "Pinterest, Inc.",
+    "description": "Conversion tag tracking product page views, add-to-carts, and checkout completions for Pinterest advertising.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "analytics.tiktok.com",
+    "name": "TikTok Pixel",
+    "category": "social",
+    "company": "ByteDance Ltd.",
+    "description": "Monitors visitor events on e-commerce sites to optimize targeting and evaluate TikTok ad campaigns.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "tr.snapchat.com",
+    "name": "Snapchat Pixel",
+    "category": "social",
+    "company": "Snap Inc.",
+    "description": "Conversion measurement tag attributing purchases and sign-ups back to Snapchat campaigns.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "demdex.net",
+    "name": "Adobe Audience Manager",
+    "category": "pixels",
+    "company": "Adobe Systems Inc.",
+    "description": "Data management platform (DMP) executing third-party cookie syncing and audience profiling across websites.",
+    "confidence": "high",
+    "source": "EasyPrivacy / DDG Tracker Radar"
+  },
+  {
+    "domain": "omtrdc.net",
+    "name": "Adobe Experience Cloud / Omniture",
+    "category": "analytics",
+    "company": "Adobe Systems Inc.",
+    "description": "Data collection servers for Adobe Analytics, tracking customer journey funnels and site interactions.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "bluekai.com",
+    "name": "Oracle BlueKai DMP",
+    "category": "pixels",
+    "company": "Oracle Corporation",
+    "description": "Large-scale data aggregator collecting third-party consumer browsing profiles for marketing segments.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "krxd.net",
+    "name": "Salesforce DMP (Krux)",
+    "category": "pixels",
+    "company": "Salesforce, Inc.",
+    "description": "Tracks audience signatures across partner publishers to build cross-platform behavioral segments.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "rlcdn.com",
+    "name": "LiveRamp IdentityLink",
+    "category": "pixels",
+    "company": "LiveRamp, Inc.",
+    "description": "Identity resolution network performing cross-site identity matching and pseudonymized cookie syncing.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "crwdcntrl.net",
+    "name": "Lotame Audience DMP",
+    "category": "pixels",
+    "company": "Lotame Solutions, Inc.",
+    "description": "Data management platform collecting behavioral signals and cookie IDs across global publishers.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "quantserve.com",
+    "name": "Quantcast Measurement",
+    "category": "analytics",
+    "company": "Quantcast Corp.",
+    "description": "Provides audience demographics, site traffic rankings, and cross-site audience profiling.",
+    "confidence": "high",
+    "source": "Disconnect / EasyPrivacy"
+  },
+  {
+    "domain": "segment.io",
+    "name": "Twilio Segment",
+    "category": "analytics",
+    "company": "Twilio Inc.",
+    "description": "Customer data platform (CDP) capturing behavioral event streams and fanning them out to marketing platforms.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "segment.com",
+    "name": "Twilio Segment API",
+    "category": "analytics",
+    "company": "Twilio Inc.",
+    "description": "Event ingestion servers for tracking user actions and product analytics.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "mixpanel.com",
+    "name": "Mixpanel Analytics",
+    "category": "analytics",
+    "company": "Mixpanel, Inc.",
+    "description": "Tracks product funnels, user cohorts, and custom web application event streams.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "amplitude.com",
+    "name": "Amplitude Product Analytics",
+    "category": "analytics",
+    "company": "Amplitude, Inc.",
+    "description": "Captures detailed event streams, user retention behavior, and behavioral cohorts across apps.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "scorecardresearch.com",
+    "name": "Scorecard Research / Comscore",
+    "category": "analytics",
+    "company": "Full Circle Studies, Inc. (Comscore)",
+    "description": "Internet audience measurement and market research service monitoring global web usage trends.",
+    "confidence": "high",
+    "source": "Disconnect / EasyPrivacy"
+  },
+  {
+    "domain": "crazyegg.com",
+    "name": "Crazy Egg",
+    "category": "analytics",
+    "company": "Crazy Egg, Inc.",
+    "description": "User behavior tracking service recording click heatmaps, scroll maps, and visitor referral trails.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "fullstory.com",
+    "name": "FullStory",
+    "category": "analytics",
+    "company": "FullStory, Inc.",
+    "description": "Digital experience intelligence platform recording high-fidelity user sessions and interaction logs.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "moatads.com",
+    "name": "Oracle Moat Ad Measurement",
+    "category": "advertising",
+    "company": "Oracle Corporation",
+    "description": "Verification platform analyzing ad viewability, attention metrics, and invalid ad traffic.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "adroll.com",
+    "name": "AdRoll / NextRoll",
+    "category": "advertising",
+    "company": "NextRoll, Inc.",
+    "description": "Cross-device retargeting and marketing platform targeting shoppers with personalized display ads.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "branch.io",
+    "name": "Branch Metrics",
+    "category": "other",
+    "company": "Branch Metrics, Inc.",
+    "description": "Mobile deep-linking and cross-platform attribution platform connecting web visitors with app installations.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "appsflyer.com",
+    "name": "AppsFlyer Attribution",
+    "category": "other",
+    "company": "AppsFlyer Ltd.",
+    "description": "Marketing measurement and mobile campaign attribution platform analyzing install referrers.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "adjust.com",
+    "name": "Adjust Attribution",
+    "category": "other",
+    "company": "Adjust GmbH",
+    "description": "Cross-platform attribution and fraud prevention engine correlating campaign links with user devices.",
+    "confidence": "high",
+    "source": "DDG Tracker Radar"
+  },
+  {
+    "domain": "sovrn.com",
+    "name": "Sovrn Holdings",
+    "category": "advertising",
+    "company": "Sovrn Holdings, Inc.",
+    "description": "Publisher monetization network and header bidding exchange collecting reader engagement signals.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  },
+  {
+    "domain": "chartbeat.com",
+    "name": "Chartbeat Publishing Analytics",
+    "category": "analytics",
+    "company": "Chartbeat, Inc.",
+    "description": "Real-time content engagement telemetry platform used by news organizations and media outlets.",
+    "confidence": "high",
+    "source": "Disconnect"
+  },
+  {
+    "domain": "teads.tv",
+    "name": "Teads Video Advertising",
+    "category": "advertising",
+    "company": "Teads S.A.",
+    "description": "Outstream video advertising provider injecting in-article video units and tracking viewer completion.",
+    "confidence": "high",
+    "source": "EasyPrivacy"
+  }
+]
